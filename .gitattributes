@@ -1,0 +1,9 @@
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.c linguist-vendored
+*.swift linguist-vendored
+fe_note_app/windows/* linguist-vendored
+fe_note_app/linux/* linguist-vendored
+fe_note_app/macos/* linguist-vendored
+fe_note_app/ios/* linguist-vendored
+fe_note_app/android/* linguist-vendored
